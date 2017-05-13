@@ -8,4 +8,9 @@ ver seu usário cadastrado
 git config --global user.name
 git clone nome do projeto --> copiar através da sua conta git
 git remote add origin https://github.com/BelmiroSouza/aulaGit.git ---> linkar o projeto com a pasta
+
 git status --> ver status do projeto
+git add --> atualizar o seu arquivo
+git add * --> atualizar todo projeto
+git commit -->git commit -m "alteracoes para teste do curso git"
+git push origin master --> atualizar o repositorio 
